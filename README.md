@@ -2,7 +2,7 @@
 > Static marketing site for McCowien Construction LLC, and underground drilling and utility installation company based in Florida.
 ---
 ## Live Site
-[View on Netlify](https://mccowien-construction.netlify.app)
+[View on Netlify](https://mccowienconstruction.netlify.app)
 ---
 ## Project Structure
 mccowien-construction-landing-page/
