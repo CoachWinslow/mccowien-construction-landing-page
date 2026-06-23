@@ -5,7 +5,7 @@
 [View on Netlify](https://mccowien-construction.netlify.app)
 ---
 ## Project Structure
-mccowien-construction-landing-pagemccowien-construction-landing-page/
+mccowien-construction-landing-page/
 
 ├── index.html                         # Production entry point
 
